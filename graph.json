@@ -1,0 +1,82 @@
+[
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "cat"
+    },
+    "time": "2024-09-26T00:10:00Z",
+    "fields": {
+      "count": 1
+    }
+  },
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "fox"
+    },
+    "time": "2024-09-26T02:30:00Z",
+    "fields": {
+      "count": 1
+    }
+  },
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "cat"
+    },
+    "time": "2024-09-26T03:45:00Z",
+    "fields": {
+      "count": 1
+    }
+  },
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "fox"
+    },
+    "time": "2024-09-26T05:00:00Z",
+    "fields": {
+      "count": 1
+    }
+  },
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "cat"
+    },
+    "time": "2024-09-27T00:20:00Z",
+    "fields": {
+      "count": 1
+    }
+  },
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "fox"
+    },
+    "time": "2024-09-27T01:15:00Z",
+    "fields": {
+      "count": 1
+    }
+  },
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "cat"
+    },
+    "time": "2024-09-27T04:10:00Z",
+    "fields": {
+      "count": 1
+    }
+  },
+  {
+    "measurement": "garden_activity",
+    "tags": {
+      "animal": "fox"
+    },
+    "time": "2024-09-27T06:25:00Z",
+    "fields": {
+      "count": 1
+    }
+  }
+]
